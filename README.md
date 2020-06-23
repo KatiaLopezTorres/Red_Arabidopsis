@@ -35,7 +35,42 @@ ERF8 tiene expresiones ligadas indirectas con:
 RGL3, ARR1, TPI, AT1G10585.
 
 
-                                                           -COLOCALIZACION-
+                                                        -COLOCALIZACION-
+
+
+La colocalizacion se basa en la cercanía de expresión de un gen que producirá proteínas intrínsecamente asociadas, puede que se tenga un parentesco pero si no se asocian no sirve de nada.
+
+![ERF8_ COLOCALIZACION](https://user-images.githubusercontent.com/67028183/85360547-069ed280-b4df-11ea-9a82-c59d05013aaa.jpg)
+
+ERF15, ERF017 y ADAP tiene una co-localización intrínseca con el gen DREB2B teniendo como punto de vista central ERF8 no tiene relación de co-localización con los genes cercanos en Arabidopsis thaliana.
+
+
+                                                     -DOMINIOS COMPARTIDOS-
+
+Los dominios compartidos son las secuencias que se sobrelapan al momento de la traducción proteica, dando así secuencias parecidas a la hora de la alineación.
+
+![ERF8_ DOMINIOS COMPARTIDOS](https://user-images.githubusercontent.com/67028183/85360582-1cac9300-b4df-11ea-9f27-54304c760c11.jpg)
+
+ERF8 comparte con los siguientes genes dominios proteicos para la síntesis de otros similares o que tienen un dominio similar:
+ADAP, DREB2B, DREB18, ERF4, ERF15, ERF043, ERF104, ERF027, ERF017, ERF071, ERF15, RAP2-2, teniendo el siguiente dominio en común:
+KKTRVWLGTF DTAQQAARAY DAAARDFRGV KAKTNFG (Realización de un alineamiento en MEGA).
+
+
+                                                 -INTERACCIONES GENETICAS-
+
+Es un tipo de interacción entre genes situados en distintos loci en un mismo cromosoma que consiste en que un gen puede enmascarar o suprimir la expresión del otro, o sea, cuando un gen eclipsa la manifestación de otro gen que no es alelo.
+
+![ERF8_INTERACCIONES GENETICAS](https://user-images.githubusercontent.com/67028183/85360670-58dff380-b4df-11ea-9843-745b55c84c45.jpg)
+
+ERF8 no presenta interacciones génicas.
+
+
+En cada comentario se puede ver la particularidad de anális del gen ERF8, sabiendo que la tonalidad azul representa los genes cuya via de señalizacion es activada por etileno.
+
+
+
+
+
 
 
 
