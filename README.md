@@ -22,3 +22,8 @@ Las interacciones físicas o interacción genes-ambiente se refiere a la expresi
 
 ERF8 tiene interacciones físicas fuertes con:
 TPL, ERF4, RAP2-2, ERF15, ARR1, PUB35, ABI1, AT3G10585, NAC018, RGL3, ERF071, ATHB-12, las cuales se deben a su cercanía en el loci teniendo interacciones en el ambiente a la hora de producción de proteínas.
+
+                                                          -CO-EXPRESION-
+
+
+
