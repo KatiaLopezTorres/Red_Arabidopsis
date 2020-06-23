@@ -16,3 +16,9 @@ En cada imagen se encuentra un analisis tomando como punto de vista central al g
 
                                                     -INTERACCIONES FISICAS-
                                
+Las interacciones físicas o interacción genes-ambiente se refiere a la expresión de un rasgo que resulta de la interacción entre los genes y el ambiente. Algunos rasgos están fuertemente influenciados por los genes, mientras que otros lo están por el medio ambiente.
+
+![ERF8_ INTERACCIONES FISICAS](https://user-images.githubusercontent.com/67028183/85360718-8fb60980-b4df-11ea-87cf-10d2162db466.jpg)
+
+ERF8 tiene interacciones físicas fuertes con:
+TPL, ERF4, RAP2-2, ERF15, ARR1, PUB35, ABI1, AT3G10585, NAC018, RGL3, ERF071, ATHB-12, las cuales se deben a su cercanía en el loci teniendo interacciones en el ambiente a la hora de producción de proteínas.
