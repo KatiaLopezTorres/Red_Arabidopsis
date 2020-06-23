@@ -1,5 +1,6 @@
 # Red_Arabidopsis
 Este es un repositorio sobre el gen ERF8 de Arabidopsis thaliana.
+![ARAB](https://user-images.githubusercontent.com/67028183/85360511-f25ad580-b4de-11ea-8d8f-7fb2eb9113e1.gif)
 
 ERF8 (Factor de transcripción sensible al etileno 8 ) participa en la regulación de la expresión génica por factores de estrés y por componentes de las vías de transducción de señales de estrés. Factor de transcripción que se une al elemento promotor relacionado con la patogénesis de la caja de CCG. Actúa como un inhibidor transcripcional y puede regular otros AtERF. Su secuencia de identificación es la siguiente (formato fasta):
 >sp|Q9MAI5|30-
