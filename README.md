@@ -35,7 +35,7 @@ ERF8 tiene expresiones ligadas indirectas con:
 RGL3, ARR1, TPI, AT1G10585.
 
 
-
+                                                           -COLOCALIZACION-
 
 
 
