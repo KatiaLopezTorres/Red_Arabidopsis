@@ -25,5 +25,23 @@ TPL, ERF4, RAP2-2, ERF15, ARR1, PUB35, ABI1, AT3G10585, NAC018, RGL3, ERF071, AT
 
                                                           -CO-EXPRESION-
 
+La expresión de genes se basa en la aparición de características para codificar proteínas con características particulares, la co-expresión se refiere a secuencias similares las cuales producen proteínas funcionales o que se puedan unir para silenciar otras, ya sea por metalización u otros factores ambientales ligados a la expresión.
+
+![ERF8_COEXPRESIONES](https://user-images.githubusercontent.com/67028183/85360747-a3fa0680-b4df-11ea-9da2-92670dbe42fb.jpg)
+
+ERF8 tiene expresiones ligadas (expresiones secundarias) con los siguientes genes (desde un punto de vista central de ERF8):
+ERF15, ERF4, ERF104, DREB2B, ERF027.
+ERF8 tiene expresiones ligadas indirectas con:
+RGL3, ARR1, TPI, AT1G10585.
+
+
+
+
+
+
+
+
+
+
 
 
